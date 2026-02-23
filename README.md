@@ -1,2 +1,2 @@
-# simple-countdown-support
-Support &amp; Privacy pages for iOS Countdown
+# Countdownly Pro support
+Support &amp; Privacy pages for Countdownly Pro
